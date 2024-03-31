@@ -6,7 +6,7 @@ Este é um projeto desenvolvido como parte da Tarefa 2 do curso de Desenvolvimen
 
 ## 👨🏾‍💻 Desafio do Projeto
 
-O objetivo desta tarefa é criar um site responsivo utilizando HTML5 e CSS3, fazendo uso do Flexbox para tornar o layout adaptável a diferentes dispositivos. O projeto consiste no desenvolvimento de um site a partir de um protótipo do Figma. O layout deve ser capaz de se ajustar automaticamente para diferentes tamanhos de tela, proporcionando uma boa experiência do usuário em dispositivos como: desktop, tablet e mobile.
+O objetivo foi criar um site responsivo a partir de um protótipo do Figma, usando HTML5 e CSS3 com Flexbox para adaptar o layout a diversos dispositivos, garantindo uma experiência consistente em desktops, tablets e mobile.
 
 <br />
 
