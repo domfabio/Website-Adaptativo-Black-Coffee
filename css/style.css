@@ -406,6 +406,7 @@ select {
   background-image: url(../assets/icons/arrow-down.svg);
   background-repeat: no-repeat;
   background-position: right center;
+  background-color: var(--branco);
   padding-right: 30px;
   appearance: none;
   background-size: 30px;
