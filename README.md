@@ -1,4 +1,4 @@
-# Tarefa 2: 💻 Website Adaptativo Black Coffee ☕
+# 💻 Website Adaptativo Black Coffee ☕
 
 Este é um projeto desenvolvido como parte da Tarefa 2 do curso de Desenvolvimento Front-end da Mentorama. O objetivo desta tarefa é criar um site responsivo utilizando HTML5 e CSS3, fazendo uso do Flexbox para tornar o layout adaptável a diferentes dispositivos.
 
