@@ -21,3 +21,11 @@ O projeto consiste no desenvolvimento de um site a partir de um protótipo do Fi
 
 - Responsividade
 - Flexbox
+
+<br />
+
+## 📸 Screenshots
+(./screen/desktop-mobile.png)
+
+## 🔗 Acesso ao Site
+- Clique no link para visualisar o projeto: https://loquacious-salamander-91fee9.netlify.app/
