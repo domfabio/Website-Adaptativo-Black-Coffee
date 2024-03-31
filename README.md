@@ -28,5 +28,5 @@ O objetivo foi criar um site responsivo a partir de um protótipo do Figma, usan
 ![Captura de tela, desktop e mobile](./screen/desktop-mobile.png)
 
 ## 🔗 Projeto Hospedado no Vercel
-Este projeto está disponível para visualização online através do Vercel. 
+Este projeto está disponível para visualização online através do Vercel. <br />
 Você pode acessá-lo através do link: https://black-coffee-iota.vercel.app/
