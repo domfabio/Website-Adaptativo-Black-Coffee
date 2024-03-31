@@ -25,7 +25,7 @@ O projeto consiste no desenvolvimento de um site a partir de um protótipo do Fi
 <br />
 
 ## 📸 Screenshots
-(./screen/desktop-mobile.png)
+![Captura de tela, desktop e mobile](./screen/desktop-mobile.png)
 
 ## 🔗 Projeto Hospedado no Vercel
 Este projeto está disponível para visualização online através do Vercel. Você pode acessá-lo através do link:
