@@ -27,5 +27,5 @@ O projeto consiste no desenvolvimento de um site a partir de um protótipo do Fi
 ## 📸 Screenshots
 (./screen/desktop-mobile.png)
 
-## 🔗 Acesso ao Site
-- Clique no link para visualisar o projeto: https://loquacious-salamander-91fee9.netlify.app/
+## 🔗 Projeto Hospedado no Vercel
+Este projeto está disponível para visualização online através do Vercel. Você pode acessá-lo através do link:
