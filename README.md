@@ -1,6 +1,6 @@
 # 💻 Website Adaptativo Black Coffee ☕
 
-Este é um projeto desenvolvido como parte da Tarefa 2 do curso de Desenvolvimento de Layout em Front-end da Mentorama. 
+Este é um projeto desenvolvido como parte da Tarefa 3 do curso de Desenvolvimento de Layout em Front-end da Mentorama. 
 
 <br />
 
