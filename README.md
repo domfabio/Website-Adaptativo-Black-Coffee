@@ -21,6 +21,7 @@ O objetivo foi criar um site responsivo a partir de um protótipo do Figma, usan
 
 - Responsividade
 - Flexbox
+- Variáveis CSS
 
 <br />
 
