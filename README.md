@@ -19,7 +19,7 @@ O objetivo foi criar um site responsivo a partir de um protótipo do Figma, usan
 
 ## 🏆 Aprendizado 
 
-- Responsividade
+- Adaptatividade
 - Flexbox
 - Variáveis CSS
 
