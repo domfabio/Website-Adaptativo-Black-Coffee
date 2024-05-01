@@ -24,8 +24,9 @@ O objetivo foi criar um site adaptativo a partir de um protótipo do Figma, usan
 
 ## 🏆 Aprendizado 
 
-- Responsividade
 - Flexbox
+- Adaptabilidade
+- Variáveis CSS
 
 <br />
 
